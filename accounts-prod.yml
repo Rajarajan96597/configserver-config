@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 accounts:
-  message: "Welcome to ABC Bank accounts related prod APIs"
+  message: "Welcome to ABC Bank accounts related webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}17a8d171b338983e756729fbcd152cee634e09d0d4a41ff01a680f0d0ac16939e67b9fffb4947822306da0984c08ddb7"
